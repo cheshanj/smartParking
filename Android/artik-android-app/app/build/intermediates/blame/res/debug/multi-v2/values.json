@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Cheshan Shaleekshana\\Downloads\\parking-system-master\\parking-system-master\\artik-android-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Cheshan Shaleekshana\\Downloads\\parking-system-master\\parking-system-master\\artik-android-app\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Cheshan Shaleekshana\\Downloads\\parking-system-master\\parking-system-master\\artik-android-app\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,6,13,15,14,5,9,11,12,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "84,208,511,629,574,140,283,400,456,351",
+                        "endColumns": "55,39,62,58,54,67,67,55,54,48",
+                        "endOffsets": "135,243,569,683,624,203,346,451,506,395"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,225,265,328,387,442,510,578,634,689",
+                        "endColumns": "55,39,62,58,54,67,67,55,54,48",
+                        "endOffsets": "220,260,323,382,437,505,573,629,684,733"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Cheshan Shaleekshana\\Downloads\\parking-system-master\\parking-system-master\\artik-android-app\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "14,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "738,1029",
+                        "endLines": "20,23",
+                        "endColumns": "12,12",
+                        "endOffsets": "1024,1184"
+                    }
+                }
+            ]
+        }
+    ]
+}

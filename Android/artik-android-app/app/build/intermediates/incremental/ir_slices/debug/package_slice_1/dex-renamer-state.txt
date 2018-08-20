@@ -1,0 +1,4 @@
+#Mon Aug 20 03:29:56 IST 2018
+base.0=C\:\\Users\\Cheshan Shaleekshana\\Downloads\\parking-system-master\\parking-system-master\\artik-android-app\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\18
+path.0=classes.dex
+renamed.0=classes.dex
